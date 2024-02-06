@@ -36,4 +36,4 @@ int main(){
 	cout << " = " << z;
 	
 	return 0;
-}
+ }
